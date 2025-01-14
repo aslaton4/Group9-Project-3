@@ -33,6 +33,6 @@
     - the dataset used in this project is provided as food_order.csv (uploaded in the resources folder in repository). This data contains records of food deliveries in New York City. 
 - Class lectures/recordings
 - Tutoring Sessions
-- Group work with preferences
+- Group work with peers
 - Youtube tutorials on ETL pipelines and database management 
 - Chatgpt
