@@ -10,7 +10,7 @@
 - Jade Russell
 
 ### Overview
-#### This project analyzes food delivery trends for restaurants in New York City, focusing on delivery times, customer ratings, and populat cuisines. Using a structured ETL (Extract, Transform, Load) pipeline, the data from a CSV file is transformed and stored in a PostgreSQL database with two nomalized tables: orders and restaurants. The insights generated from this project allows us to provide meaningful data-driven recommendations for improving delivery performance and understanding customer preferences in one of the busiest metropolitan areas. 
+#### This project analyzes food delivery trends for restaurants in New York City, focusing on delivery times, customer ratings, and popular cuisines. Using a structured ETL (Extract, Transform, Load) pipeline, the data from a CSV file is transformed and stored in a PostgreSQL database with two nomalized tables: orders and restaurants. The insights generated from this project allows us to provide meaningful data-driven recommendations for improving delivery performance and understanding customer preferences in one of the busiest metropolitan areas. 
 
 ### Instructions for Setup
 #### 1. Setup - Clone the Repository
